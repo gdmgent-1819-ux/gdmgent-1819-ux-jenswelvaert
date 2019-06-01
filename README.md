@@ -1,7 +1,5 @@
-# Eindopdracht UX
-
-- Voornaam:
-- Familienaam:
-- Studentnummer: 
-- Klasgroep: 
-- UX prototype link: 
+- Voornaam: Jens
+- Familienaam: Welvaert
+- Studentnummer: 104492
+- Klasgroep: 1MMPc2
+- UX prototype link: https://xd.adobe.com/view/28c8f1f4-32e7-48d0-43b4-22ff0f09d707-5ef9/
